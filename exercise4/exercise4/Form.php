@@ -35,10 +35,10 @@ body {
  </hr>
  <center>
  
-<a href="mypage.html" target="_self">HOME</a> |
-<a href="interest.html" target="_self">INTEREST</a> |
-<a href="gal.html" target="_parent">TRIVIAS</a> 
-<a href="Form.html" target="_parent">FORM.PHP</a> 
+<a href="mypage.php" target="_self">HOME</a> |
+<a href="interest.php" target="_self">INTEREST</a> |
+<a href="gal.php" target="_parent">TRIVIAS</a> 
+<a href="Form.php" target="_parent">FORM.PHP</a> 
 
 </center>
  </td>
@@ -47,7 +47,7 @@ body {
 
  
 <tr>
- <td bgcolor="#eee" height="700" align ="center">
+ <td bgcolor="#eee" height="700"  align ="center">
 
 </br>
 </br>
@@ -56,7 +56,7 @@ body {
 <?php	
 $nameErr = $emailErr = $genderErr = $nicknameErr = "";
 $name = $email = $gender = $comment = $nickname = $home = $cnum = "";
-
+//name
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
   if (empty($_POST["name"])) {
     $nameErr = "Name is required";
@@ -66,6 +66,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       $nameErr = "Only letters and white space allowed"; 
     }
   }
+  //nickname
    if (empty($_POST["nickname"])) {
 	  $nicknameErr = "Nickname is required";
   } else {
@@ -74,6 +75,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       $nicknameErr = "Only letters and white space allowed"; 
     }
   }
+  //email
    if (empty($_POST["email"])) {
     $emailErr = "Email is required";
   } else {
@@ -82,23 +84,25 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       $emailErr = "Invalid email format"; 
     }
   }
-  
+  //address
   if (empty($_POST["home"])) {
     $home = "";
   } else {
     $home = test_input($_POST["home"]);
   }
+  //gender
     if (empty($_POST["gender"])) {
     $genderErr = "Gender is required";
   } else {
     $gender = test_input($_POST["gender"]);
   }
+  //contact
   if (empty($_POST["cnum"])){
 	  $num = "";
   } else {
 	  $cnum = test_input($_POST["cnum"]);
   }
- 
+ //comments
   if (empty($_POST["comment"])) {
     $comment = "";
   } else {
@@ -123,7 +127,7 @@ function test_input($data) {
   <span class="error">* <?php echo $nicknameErr;?></span>
   <br><br>
   Email Address: <input type="text" name="email" value="<?php echo $email;?>">
-  <span class="error"><?php echo $emailErr;?></span>
+  <span class="error">*<?php echo $emailErr;?></span>
   <br><br>
   Home Address: <input type="text" name="home" value="<?php echo $home;?>">
   <br><br>
