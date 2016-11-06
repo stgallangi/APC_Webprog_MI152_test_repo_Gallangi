@@ -20,6 +20,7 @@ body {
     background-color: darkblue;
 }
 </style>
+<link rel="stylesheet" type="text/css" href="Style.css">
 <title>My Site</title>
 </head>
 
@@ -36,7 +37,8 @@ body {
 <a href="mypage.php" target="_self">HOME</a> |
 <a href="interest.php" target="_self">INTEREST</a> |
 <a href="gal.php" target="_parent">TRIVIAS</a> |
-<a href="Form.php" target="_parent">FORM.PHP</a> 
+<a href="Form.php" target="_parent">FORM.PHP</a> |
+<a href="index.php" target="_parent">SQL FORM</a> 
 </center>
  </td>
  </tr>
