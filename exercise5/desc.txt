@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added the script
+=======
+added the needed commands
+>>>>>>> 85e454fb5ea9f36e25fd745276100910657cd249
