@@ -4,7 +4,7 @@
 #para1 {
 font-family: "Time New Roman", Times, serif;
 font-size: 70px;
-color: Blue;
+color: Orange;
 }
 #para2 {
 font-family: "Time New Roman", Times, serif;
