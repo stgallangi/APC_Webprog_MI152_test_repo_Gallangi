@@ -20,7 +20,7 @@ body {
     background-color: darkblue;
 }
 </style>
-<link rel="stylesheet" type="text/css" href="Style.css">
+
 <title>My Site</title>
 </head>
 
