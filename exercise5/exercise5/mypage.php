@@ -70,6 +70,7 @@ body {
  <a href="http://twitter.com/" target="_top">http://twitter.com//</a> </br>
  <a href="http://facebook.com/" target="_top">http://facebook.com//</a> </br>
  <a href="http://123movies.com/" target="_top">http://123movies.com//</a> </br>
+ <a href="http://khanacademy.org/" target="_top">http://khanacademy.org//</a> </br>
  </p>
  </br>
  </br>
