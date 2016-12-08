@@ -68,12 +68,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       $nameErr = "Only letters and white space allowed"; 
     }
   }
-  //nickname
+    //nickname
    if (empty($_POST["nickname"])) {
 	  $nicknameErr = "Nickname is required";
   } else {
 	  $nickname = test_input($_POST["nickname"]);
-    if (!preg_match("[a-zA-Z ]",$nickname)) {
+    if (!preg_match("/^[a-zA-Z ]*$/",$nickname)) {
       $nicknameErr = "Only letters and white space allowed"; 
     }
   }
