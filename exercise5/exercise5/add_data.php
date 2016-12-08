@@ -36,7 +36,7 @@ body {
 	}
 	
 </style>
-<link rel="stylesheet" type="text/css" href="Style1.css">
+<link rel="stylesheet" type="text/css" href="Style2.css">
 <title>My Site</title>
 </head>
 
