@@ -66,7 +66,7 @@ $("#show").click(function(){
         <?= Html::encode("{$trivias->trivia}") ?>:
         <h5>Answer: </h5>
 
-        <answers style=display:none><strong><?= Html::encode("({$trivias->trivia})") ?> </strong></answers>
+        <answers style=display:none><strong><?= Html::encode("({$trivias->answer})") ?> </strong></answers>
         <br>
     </li>
 <?php endforeach; ?>
