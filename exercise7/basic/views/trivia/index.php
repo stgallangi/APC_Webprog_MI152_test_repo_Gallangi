@@ -54,7 +54,7 @@ body {
 $(document).ready(function()
 {
 $("#show").click(function(){
-    $("answers").toggle(300);
+    $("answers").toggle(600);
 });
 });
 </script>
