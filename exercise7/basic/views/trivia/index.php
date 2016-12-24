@@ -59,6 +59,7 @@ $("#show").click(function(){
 });
 </script>
 <br>
+</br>
 <br>
 <ul>
 <?php foreach ($trivia as $trivias): ?>
@@ -67,6 +68,7 @@ $("#show").click(function(){
         <h5>Answer: </h5>
 
         <answers style=display:none><strong><?= Html::encode("({$trivias->answer})") ?> </strong></answers>
+        </br>
         <br>
     </li>
 <?php endforeach; ?>
