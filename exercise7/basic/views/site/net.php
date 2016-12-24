@@ -47,6 +47,8 @@ body {
 <tr>
  <td bgcolor="#eee" height="700" align ="center">
  <p id="para2"> WELCOME TO MY WEBSITE! </p>
+  </br>
+   </br>
  </br>
 	<center>
 	  <img src = "me1.jpg" width="400" height="300" ></center>
