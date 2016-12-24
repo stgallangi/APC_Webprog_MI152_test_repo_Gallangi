@@ -6,6 +6,6 @@ insert into trivia values (1,'Gallangi, Stevenson is taking...', 'IT'),
 (6,'At what level Steven is?', 'College'),
 (7,'Favorite course?', 'WebProg'),
 (8,'What country do Steven wish to live in?','Canada'),
-(9,'How many hours do Steven take to finish this', '47 mins'),
+(9,'How many hours do Steven take to finish this', '53 mins'),
 (10,'Favorite video game?', 'DOTA2');
 
