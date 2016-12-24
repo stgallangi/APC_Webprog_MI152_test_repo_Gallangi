@@ -18,7 +18,7 @@ class TriviaController extends Controller
     public function actionIndex()
     {
     	
-    	 $query = trivia::find(); // Fetching data as array
+    	 $query = trivia::find();
 
     	 $pagination = new Pagination([
             'defaultPageSize' => 5,
