@@ -43,6 +43,7 @@ body {
   <p id="para1"> Stevenson Gallangi </p>
  </hr>
  	<br>
+  <br>
  </td>
  </tr>
 <tr>
