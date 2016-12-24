@@ -49,7 +49,7 @@ body {
  <td bgcolor="#eee" height="700" align ="center">
   <h2 id="header2">Trivias</br>
  <div class="box">
- <script src = "https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+ 
  <script>
 $(document).ready(function()
 {
