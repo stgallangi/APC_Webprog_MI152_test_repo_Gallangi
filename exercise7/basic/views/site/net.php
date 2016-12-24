@@ -48,8 +48,9 @@ body {
  <td bgcolor="#eee" height="700" align ="center">
  <p id="para2"> WELCOME TO MY WEBSITE! </p>
   </br>
-   </br>
- </br>
+
+  </br>
+  </br>
 	<center>
 	  <img src = "me1.jpg" width="400" height="300" ></center>
 	<br>
@@ -67,6 +68,7 @@ body {
 <a href="http://facebook.com/" target="_top">http://facebook.com//</a> </br>
 <a href="http://steamcommunity.com/" target="_top">http://steamcommunity.com//</a> </br>
 <a href="http://reddit.com/" target="_top">http://reddit.com//</a> </br>
+<a href="http://khanacademy.org/" target="_top">http://khanacademy.org//</a> </br>
  </p>
  </br>
  </br>
