@@ -94,7 +94,7 @@ I still prefer listening to this old but gold bands than listening to new loud a
 What is my first choice?
   </br>
   <p id="1stchoice" style="display:none"><br>
-It was architecture.</br>
+It was architecture/civil engineering.</br>
 I really want to build something for myself. Something that won't satisfy just myself but also other people.</br>
 Sadly, Tuition in UST is so high and it was hard to apply for scholarship so here I am, Taking IT. </br>
  </br>
