@@ -68,7 +68,7 @@ $("#show").click(function(){
         <?= Html::encode("{$trivias->trivia}") ?>:
         <h5>Answer: </h5>
 
-        <answers style=display:none><strong><?= Html::encode("({$trivias->answer})") ?> </strong></answers>
+        <answers style=display:none><?= Html::encode("({$trivias->answer})") ?> </answers>
         </br>
         <br>
     </li>
