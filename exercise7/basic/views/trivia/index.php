@@ -70,7 +70,7 @@ $("#show").click(function(){
         <br>
     </li>
 <?php endforeach; ?>
-  <button id="show">Show all answer</button>
+  <button id="show">Show answers</button>
 </ul>
 </body>
 </br>
