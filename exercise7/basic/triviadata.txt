@@ -1,0 +1,11 @@
+insert into trivia values (1,'Gallangi, Stevenson is taking...', 'IT'),
+(2,'How many dogs do Steven have?','4'),
+(3,'Steven was born and raised in the?', 'Philippines'),
+(4,'Steven spends most of his free time in', 'Reading and 9gag'),
+(5,'What sports Steven takes?', 'Chess, Badminton, and Basketball'),
+(6,'At what level Steven is?', 'College'),
+(7,'Do Steven eat a lot?', 'Maybe'),
+(8,'What country do Steven wish to live in?','Canada'),
+(9,'How many hours do Steven take to finish this', '47 mins'),
+(10,'Favorite video game?', 'DOTA2');
+
