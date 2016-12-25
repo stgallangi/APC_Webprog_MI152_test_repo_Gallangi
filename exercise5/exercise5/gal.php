@@ -70,6 +70,8 @@ DOTA2, CS:GO, Witcher,</br>
 I like first person games as well like FPS and some RPG. Nothing beats a game with a nice plot. </br>
  </br>
  <img id="myImage" src="aa2.gif" style="width:500px"></p>
+  <img id="myImage" src="g7.gif" style="width:500px"></p>
+
 <button type="button" onclick="document.getElementById('games').style.display='block'">Click Click Click!</button>
 </br>
 </br>
