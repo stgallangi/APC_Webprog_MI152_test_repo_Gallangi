@@ -73,7 +73,7 @@ I like first person games as well like FPS and some RPG. Nothing beats a game wi
 <button type="button" onclick="document.getElementById('games').style.display='block'">Click Click Click!</button>
 </br>
 </br>
-Bands I like the mosts are?
+What is my favorite song?
   </br>
   <p id="bands" style="display:none"><br>
 Maroon5, Panic at the disco, All time low, My Chemical Romance, and A rocket to the moon</br>
@@ -91,7 +91,9 @@ What is my first choice?
 Tune and lyrics really got me.<br>
 A nice melody perhaps. I can't explain but there is something that really caught me.<br>
  </br>
- <img id="myImage" src="a4.jpg" style="width:500px"></p>
+ <img id="myImage" src="g5.gif" style="width:500px"></p>
+  <img id="myImage" src="g6.gif" style="width:500px"></p>
+
 <button type="button" onclick="document.getElementById('1stchoice').style.display='block'">Go On!</button>
 </br>
 </br>
