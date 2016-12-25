@@ -56,7 +56,7 @@ body {
  <p id="para2"> Hobbies and Interest </p>
  </br>
 
-	<img src="<?php echo base_url('css/uploads/me2.jpg')?>" width ="400" height ="300" /></center>
+	<img src="<?php echo base_url('css/uploads/me2.jpg')?>" width ="300" height ="200" /></center>
  </br>
   </br>
    </br>
