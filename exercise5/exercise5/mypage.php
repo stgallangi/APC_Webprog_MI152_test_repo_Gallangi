@@ -51,6 +51,8 @@ body {
  <p id="para2"> WELCOME TO MY WEBSITE! </p>
  </br>
 <img src="me1.jpg" width ="400" height ="300"align ="center"/>
+<img src="g9.gif" width ="400" height ="300"align ="center"/>
+
 
 
 </br>
