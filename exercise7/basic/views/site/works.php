@@ -84,6 +84,7 @@ Nothing beats a game with a nice plot. </br>
  </br>
 
   	  <img src = "aa2.gif" width="600" height="500" > <br></p>
+            <img src = "g7.gif" width="600" height="500" > <br></p>
 <button type="button" onclick="document.getElementById('games').style.display='block'">Click Click Click!</button>
 </br>
 </br>
