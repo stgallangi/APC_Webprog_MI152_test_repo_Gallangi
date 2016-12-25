@@ -97,12 +97,12 @@ I still prefer listening to this old but gold bands than listening to new loud a
  </br>
   <img src="<?php echo base_url('css/uploads/a3.gif')?>" width ="600" height ="500" /> <br></p>
 
-<button type="button" onclick="document.getElementById('bands').style.display='block'">Know More!</button>
+<button type="button" onclick="document.getElementById('favesong').style.display='block'">Know More!</button>
 </br>
 </br>
-What is my first choice?
+What is my favorite song?
   </br>
-  <p id="1stchoice" style="display:none"><br>
+  <p id="favesong" style="display:none"><br>
 'Sugar', and 'Don't wanna know' of Maroon 5</br>
 Tune and lyrics really got me.<br>
 A nice melody perhaps. I can't explain but there is something that really caught me.<br>
