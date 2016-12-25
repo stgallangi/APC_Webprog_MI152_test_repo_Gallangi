@@ -59,6 +59,8 @@ body {
  I only play badminton when I want to crush my friends. </br>
  </br>
  <img id="myImage" src="a1.jpg" style="width:500px"></p>
+  <img id="myImage" src="g8.gif" style="width:500px"></p>
+
 <button type="button" onclick="document.getElementById('sports').style.display='block'">Show the answer!</button>
 </br>
 </br>
