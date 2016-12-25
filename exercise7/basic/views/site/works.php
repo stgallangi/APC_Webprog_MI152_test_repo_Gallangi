@@ -56,32 +56,38 @@ body {
 <div id="trivias" style="display:none">
 
  </br>
+ 
   <p id="para2"> Trivias about me </p>
   In my state, I often play sports. Want to know what sports I am involved?
   </br>
+
   <p id="sports" style="display:none"><br>
  I enjoy playing sports in which brain is used more than brawn,</br>
  Chess, Badminton, and Basketball, </br>
  I liked chess because I enjoy doing tactics in order to win just like in basketball.</br>
  I only play badminton when I want to crush my friends. </br>
  </br>
+
  	  <img src = "a1.jpg" width="600" height="500" > <br></p>
 <button type="button" onclick="document.getElementById('sports').style.display='block'">Show the answer!</button>
 </br>
 </br>
 I play video games as well like..?
   </br>
+
   <p id="games" style="display:none"><br>
 DOTA2, CS:GO, Witcher,</br>
  I like DOTA2 because like in Chess, I enjoy doing tactics in order to win. I hate losing but having a fun time is the priority</br>
 I like first person games as well like FPS and some RPG. Nothing beats a game with a nice plot. </br>
  </br>
+
   	  <img src = "aa2.gif" width="600" height="500" > <br></p>
 <button type="button" onclick="document.getElementById('games').style.display='block'">Click Click Click!</button>
 </br>
 </br>
 Bands I like the mosts are?
   </br>
+
   <p id="bands" style="display:none"><br>
 Maroon5, Panic at the disco, All time low, My Chemical Romance, and A rocket to the moon</br>
 I don't need to explain why. Just listen and you'll know.</br>
@@ -93,11 +99,13 @@ I still prefer listening to this old but gold bands than listening to new loud a
 </br>
 What is my first choice?
   </br>
+
   <p id="1stchoice" style="display:none"><br>
 It was architecture/civil engineering.</br>
 I really want to build something for myself. Something that won't satisfy just myself but also other people.</br>
 Sadly, Tuition in UST is so high and it was hard to apply for scholarship so here I am, Taking IT. </br>
  </br>
+
  	  <img src = "a4.jpg" width="600" height="500" > <br></p>
 <button type="button" onclick="document.getElementById('1stchoice').style.display='block'">Go On!</button>
 </br>
