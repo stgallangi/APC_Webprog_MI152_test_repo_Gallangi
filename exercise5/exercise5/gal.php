@@ -81,22 +81,22 @@ I don't need to explain why. Just listen and you'll know.</br>
 I still prefer listening to this old but gold bands than listening to new loud and messy ones. </br>
  </br>
  <img id="myImage" src="a3.gif" style="width:500px"></p>
-<button type="button" onclick="document.getElementById('bands').style.display='block'">Know More!</button>
+<button type="button" onclick="document.getElementById('favesong').style.display='block'">Know More!</button>
 </br>
 </br>
 What is my first choice?
   </br>
-  <p id="1stchoice" style="display:none"><br>
-It was architecture.</br>
-I really want to build something for myself. Something that won't satisfy just myself but also other people.</br>
-Sadly, Tuition in UST is so high and it was hard to apply for scholarship so here I am, Taking IT. </br>
+  <p id="favesong" style="display:none"><br>
+'Sugar', and 'Don't wanna know' of Maroon 5</br>
+Tune and lyrics really got me.<br>
+A nice melody perhaps. I can't explain but there is something that really caught me.<br>
  </br>
  <img id="myImage" src="a4.jpg" style="width:500px"></p>
 <button type="button" onclick="document.getElementById('1stchoice').style.display='block'">Go On!</button>
 </br>
 </br>
 Want to see some of my works?
- <p id="gallery" style="display:none"><br>
+ <p id="photogallery" style="display:none"><br>
 <button onclick="document.getElementById('myImage1').src='g1.jpg'">1st pic</button>
 <button onclick="document.getElementById('myImage1').src='g2.jpg'">2nd pic</button>
 <button onclick="document.getElementById('myImage1').src='g3.jpg'">3rd pic</button>
@@ -106,7 +106,7 @@ Want to see some of my works?
 </br>
 <img id="myImage1" src="g1.jpg" style="width:500px"></p>
 </br>
-<button type="button" onclick="document.getElementById('gallery').style.display='block'">Here Here!</button>
+<button type="button" onclick="document.getElementById('photogallery').style.display='block'">Here Here!</button>
 </br>
 </br>
 </br>
