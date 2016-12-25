@@ -103,12 +103,15 @@ What is my favorite song?
   </br>
 
   <p id="favesong" style="display:none"><br>
-It was architecture/civil engineering.</br>
-I really want to build something for myself. Something that won't satisfy just myself but also other people.</br>
-Sadly, Tuition in UST is so high and it was hard to apply for scholarship so here I am, Taking IT. </br>
+'Sugar', and 'Don't wanna know' of Maroon 5</br>
+Tune and lyrics really got me.<br>
+A nice melody perhaps. I can't explain but there is something that really caught me.<br>
+ </br>
  </br>
 
- 	  <img src = "a4.jpg" width="600" height="500" > <br></p>
+ 	  <img src = "g5.gif" width="600" height="500" > <br></p>
+        <img src = "g6.gif" width="600" height="500" > <br></p>
+
 <button type="button" onclick="document.getElementById('1stchoice').style.display='block'">Go On!</button>
 </br>
 </br>
