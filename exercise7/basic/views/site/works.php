@@ -69,7 +69,7 @@ body {
  </br>
 
  	  <img src = "a1.jpg" width="600" height="500" > <br></p>
-            <img src = "g9.gif" width="600" height="500" > <br></p>
+            <img src = "g8.gif" width="600" height="500" > <br></p>
 
 <button type="button" onclick="document.getElementById('sports').style.display='block'">Show the answer!</button>
 </br>
