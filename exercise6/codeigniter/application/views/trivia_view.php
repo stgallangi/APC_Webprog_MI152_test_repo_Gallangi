@@ -102,7 +102,7 @@ It was architecture.</br>
 I really want to build something for myself. Something that won't satisfy just myself but also other people.</br>
 Sadly, Tuition in UST is so high and it was hard to apply for scholarship so here I am, Taking IT. </br>
  </br>
- <img src="<?php echo base_url('css/uploads/a4.jpg')?>" width ="500" height ="400" /> <br></p>
+ <img src="<?php echo base_url('css/uploads/a4.jpg')?>" width ="600" height ="500" /> <br></p>
 <button type="button" onclick="document.getElementById('1stchoice').style.display='block'">Go On!</button>
 </br>
 </br>
