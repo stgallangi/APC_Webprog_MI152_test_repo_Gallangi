@@ -69,7 +69,7 @@ body {
  I liked chess because I enjoy doing tactics in order to win just like in basketball.</br>
  I only play badminton when I want to crush my friends. </br>
  </br>
- <img src="<?php echo base_url('css/uploads/a1.jpg')?>" width ="500" height ="400" /> <br></p>
+ <img src="<?php echo base_url('css/uploads/a1.jpg')?>" width ="600" height ="500" /> <br></p>
 <button type="button" onclick="document.getElementById('sports').style.display='block'">Show the answer!</button>
 </br>
 </br>
