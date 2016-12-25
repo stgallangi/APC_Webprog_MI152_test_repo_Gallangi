@@ -53,6 +53,7 @@ body {
   </br>
 	<center>
 	  <img src = "me1.jpg" width="500" height="400" ></center>
+        <img src = "g9.gif" width="500" height="400" ></center>
 	<br>
 </br>
 </br>
