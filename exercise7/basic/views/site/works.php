@@ -43,7 +43,7 @@ body {
  <td bgcolor="#b5dcb3" height = "100">
   <p id="para1"> Stevenson Gallangi </p>
  </hr>
-
+<br>
 	<br>
  </td>
  </tr>
@@ -56,7 +56,7 @@ body {
 <div id="trivias" style="display:none">
 
  </br>
- 
+
   <p id="para2"> Trivias about me </p>
   In my state, I often play sports. Want to know what sports I am involved?
   </br>
@@ -77,8 +77,10 @@ I play video games as well like..?
 
   <p id="games" style="display:none"><br>
 DOTA2, CS:GO, Witcher,</br>
- I like DOTA2 because like in Chess, I enjoy doing tactics in order to win. I hate losing but having a fun time is the priority</br>
-I like first person games as well like FPS and some RPG. Nothing beats a game with a nice plot. </br>
+ I like DOTA2 because like in Chess, I enjoy doing tactics in order to win. 
+ I hate losing but having a fun time is the priority</br>
+I like first person games as well like FPS and some RPG. 
+Nothing beats a game with a nice plot. </br>
  </br>
 
   	  <img src = "aa2.gif" width="600" height="500" > <br></p>
