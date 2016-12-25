@@ -111,7 +111,7 @@ Want to see some of my works?
 </br>
 </br>
 </br>
- <img id = 'myImage1' src="g1.jpg" width ="500" height ="400" /> <br></p>
+ <img id = 'myImage1' src="g1.jpg" width ="600" height ="500" /> <br></p>
 </br>
 <button type="button" onclick="document.getElementById('gallery').style.display='block'">Here Here!</button>
 </br>
