@@ -55,7 +55,9 @@ body {
  <p id="para2"> WELCOME TO MY WEBSITE! </p>
  </br>
 	<center>
-	<img src="<?php echo base_url('css/uploads/me1.jpg')?>" width ="300" height ="200" /></center>
+	<img src="<?php echo base_url('css/uploads/me1.jpg')?>" width ="500" height ="400" /></center>
+		<img src="<?php echo base_url('css/uploads/g9.gif')?>" width ="500" height ="400" /></center>
+
 	<br>
 </br>
 </br>
