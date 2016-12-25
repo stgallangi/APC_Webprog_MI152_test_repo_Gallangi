@@ -58,11 +58,11 @@ body {
 </br>
 </br>
 <p id="para3">
- Hi I'm Stevenson Gallangi,</br>
+ Hi I'm Stevenson Gallangi, </br>
  born in January 22, 1999 at Taguig city, </br>
  17 years of age, Currently studying BSIT Major in Mobile and Internet</br>
  </br></p>
- My Favorite site:
+ My Favorite sites:
  </br>
 <a href="http://9gag.com/" target="_top">http://9gag.com//</a> </br>
 <a href="http://facebook.com/" target="_top">http://facebook.com//</a> </br>
