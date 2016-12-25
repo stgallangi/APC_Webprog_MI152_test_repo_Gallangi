@@ -76,7 +76,7 @@ DOTA2, CS:GO, Witcher,</br>
  I like DOTA2 because like in Chess, I enjoy doing tactics in order to win. I hate losing but having a fun time is the priority</br>
 I like first person games as well like FPS and some RPG. Nothing beats a game with a nice plot. </br>
  </br>
-  	  <img src = "aa2.gif" width="500" height="400" > <br></p>
+  	  <img src = "aa2.gif" width="600" height="500" > <br></p>
 <button type="button" onclick="document.getElementById('games').style.display='block'">Click Click Click!</button>
 </br>
 </br>
