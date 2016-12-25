@@ -95,7 +95,8 @@ body {
   </br>
  So these are some of the things I enjoy a lot and also I like playing </br>
  games. I am a big fan of pokemon, I have played almost all the version  </br>
- of it even if I don’t even have a Gameboy or a DS thanks to smartphones. I enjoy photography</br>
+ of it even if I don’t even have a Gameboy or a DS thanks to smartphones.
+I enjoy photography</br>
  
  </br>
  </br>
