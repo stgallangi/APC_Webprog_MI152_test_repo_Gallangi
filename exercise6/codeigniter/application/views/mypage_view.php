@@ -71,7 +71,7 @@ body {
 <a href="http://facebook.com/" target="_top">http://facebook.com//</a> </br>
 <a href="http://steamcommunity.com/" target="_top">http://steamcommunity.com//</a> </br>
 <a href="http://reddit.com/" target="_top">http://reddit.com//</a> </br>
-
+<a href="http://khanacademy.org/" target="_top">http://khanacademy.org//</a> </br>
  </p>
  </br>
  </br>
