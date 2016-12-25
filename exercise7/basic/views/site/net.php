@@ -52,7 +52,7 @@ body {
   </br>
   </br>
 	<center>
-	  <img src = "me1.jpg" width="400" height="300" ></center>
+	  <img src = "me1.jpg" width="500" height="400" ></center>
 	<br>
 </br>
 </br>
