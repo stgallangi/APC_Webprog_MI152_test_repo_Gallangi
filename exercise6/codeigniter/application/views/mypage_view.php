@@ -69,6 +69,8 @@ body {
  </br>
 <a href="http://9gag.com/" target="_top">http://9gag.com//</a> </br>
 <a href="http://facebook.com/" target="_top">http://facebook.com//</a> </br>
+<a href="http://steamcommunity.com/" target="_top">http://steamcommunity.com//</a> </br>
+
  </p>
  </br>
  </br>
