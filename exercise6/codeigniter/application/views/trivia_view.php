@@ -70,6 +70,8 @@ body {
  I only play badminton when I want to crush my friends. </br>
  </br>
  <img src="<?php echo base_url('css/uploads/a1.jpg')?>" width ="600" height ="500" /> <br></p>
+   <img src="<?php echo base_url('css/uploads/g8.gif')?>" width ="600" height ="500" /> <br></p>
+
 <button type="button" onclick="document.getElementById('sports').style.display='block'">Show the answer!</button>
 </br>
 </br>
