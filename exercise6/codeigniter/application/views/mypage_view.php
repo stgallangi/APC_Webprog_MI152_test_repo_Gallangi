@@ -23,7 +23,7 @@ body {
 }
 </style>
 <link rel="stylesheet" href="<?php echo base_url('css/Style.css');?>">
-<title>My Site</title>
+<title>Home</title>
 </head>
 </style>
 </head>
