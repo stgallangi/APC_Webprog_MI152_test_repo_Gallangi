@@ -87,7 +87,7 @@ Maroon5, Panic at the disco, All time low, My Chemical Romance, and A rocket to 
 I don't need to explain why. Just listen and you'll know.</br>
 I still prefer listening to this old but gold bands than listening to new loud and messy ones. </br>
  </br>
-  	  <img src = "a3.gif" width="500" height="400" > <br></p>
+  	  <img src = "a3.gif" width="600" height="500" > <br></p>
 <button type="button" onclick="document.getElementById('bands').style.display='block'">Know More!</button>
 </br>
 </br>
