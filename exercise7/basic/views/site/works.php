@@ -103,7 +103,7 @@ Sadly, Tuition in UST is so high and it was hard to apply for scholarship so her
 </br>
 </br>
 Want to see some of my works?
- <p id="gallery" style="display:none"><br>
+ <p id="photogallery" style="display:none"><br>
 <button onclick="document.getElementById('myImage1').src='g1.jpg'"">1st pic</button>
 <button onclick="document.getElementById('myImage1').src='g2.jpg'"">2nd pic</button>
 <button onclick="document.getElementById('myImage1').src='g3.jpg'"">3rd pic</button>
@@ -113,7 +113,7 @@ Want to see some of my works?
 </br>
  <img id = 'myImage1' src="g1.jpg" width ="600" height ="500" /> <br></p>
 </br>
-<button type="button" onclick="document.getElementById('gallery').style.display='block'">Here Here!</button>
+<button type="button" onclick="document.getElementById('photogallery').style.display='block'">Here Here!</button>
 </br>
 </br>
 </br>
